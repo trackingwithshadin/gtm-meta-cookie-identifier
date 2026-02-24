@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/sadikulshadin/"
+documentation: "https://github.com/trackingwithshadin/gtm-meta-cookie-identifier"
+versions:
+  - sha: "main"
+    changeNotes: "Initial release of Meta Cookie Identifier template."
